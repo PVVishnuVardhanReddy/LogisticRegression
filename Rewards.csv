@@ -1,0 +1,151 @@
+Gender,Age,Membership,Loyalty Points,Discount,Gift,Earlybird,Reward
+Male,45,Premium,501 to 1000,Yes,Yes,Yes,Cashback
+Female,41,Normal,Below 500,No,No,No,Coupon
+Female,25,Premium,Above 1000,Yes,Yes,Yes,Coupon or Cashback
+Male,38,Premium,501 to 1000,Yes,Yes,Yes,Cashback
+Male,32,Normal,Above 1000,Yes,Yes,No,Coupon or Cashback
+Male,28,Premium,501 to 1000,Yes,Yes,Yes,Cashback
+Female,41,Normal,501 to 1000,Yes,No,No,Coupon
+Female,39,Normal,Below 500,No,No,No,Coupon
+Female,24,Premium,Above 1000,Yes,Yes,Yes,Coupon or Cashback
+Female,34,Premium,501 to 1000,Yes,Yes,Yes,Cashback
+Female,42,Normal,Above 1000,Yes,Yes,No,Coupon or Cashback
+Male,34,Normal,Below 500,No,No,No,Coupon
+Female,39,Premium,501 to 1000,Yes,Yes,Yes,Cashback
+Male,39,Normal,Above 1000,Yes,Yes,No,Coupon or Cashback
+Female,43,Premium,Below 500,Yes,No,Yes,Coupon
+Male,47,Premium,501 to 1000,Yes,Yes,Yes,Cashback
+Female,35,Normal,Above 1000,Yes,Yes,No,Coupon or Cashback
+Female,26,Premium,Below 500,Yes,No,Yes,Coupon
+Male,39,Normal,Above 1000,Yes,Yes,No,Coupon or Cashback
+Female,25,Normal,Below 500,No,No,No,Coupon
+Male,29,Normal,Above 1000,Yes,Yes,No,Coupon or Cashback
+Female,25,Normal,Above 1000,Yes,Yes,No,Coupon or Cashback
+Female,40,Premium,501 to 1000,Yes,Yes,Yes,Cashback
+Female,41,Premium,Above 1000,Yes,Yes,Yes,Coupon or Cashback
+Female,47,Premium,501 to 1000,Yes,Yes,Yes,Cashback
+Male,47,Normal,Below 500,No,No,No,Coupon
+Female,50,Premium,Above 1000,Yes,Yes,Yes,Coupon or Cashback
+Female,50,Premium,501 to 1000,Yes,Yes,Yes,Cashback
+Male,42,Normal,Above 1000,Yes,Yes,No,Coupon or Cashback
+Female,42,Premium,501 to 1000,Yes,Yes,Yes,Cashback
+Male,47,Normal,Below 500,No,No,No,Coupon
+Female,37,Premium,501 to 1000,Yes,Yes,Yes,Cashback
+Female,42,Normal,Above 1000,Yes,Yes,No,Coupon or Cashback
+Female,37,Normal,501 to 1000,Yes,No,No,Coupon
+Male,29,Normal,Above 1000,Yes,Yes,No,Coupon or Cashback
+Male,28,Premium,Above 1000,Yes,Yes,Yes,Coupon or Cashback
+Male,26,Normal,Below 500,No,No,No,Coupon
+Female,40,Premium,501 to 1000,Yes,Yes,Yes,Cashback
+Female,30,Premium,Above 1000,Yes,Yes,Yes,Coupon or Cashback
+Female,36,Normal,Below 500,No,No,No,Coupon
+Female,33,Premium,Above 1000,Yes,Yes,Yes,Coupon or Cashback
+Female,30,Normal,Below 500,No,No,No,Coupon
+Male,38,Normal,501 to 1000,Yes,No,No,Coupon
+Male,38,Normal,Below 500,No,No,No,Coupon
+Female,24,Normal,Below 500,No,No,No,Coupon
+Female,34,Premium,501 to 1000,Yes,Yes,Yes,Cashback
+Male,33,Normal,Below 500,No,No,No,Coupon
+Female,27,Normal,501 to 1000,Yes,No,No,Coupon
+Female,50,Premium,Above 1000,Yes,Yes,Yes,Coupon or Cashback
+Female,45,Normal,Above 1000,Yes,Yes,No,Coupon or Cashback
+Female,38,Normal,501 to 1000,Yes,No,No,Coupon
+Female,44,Premium,Above 1000,Yes,Yes,Yes,Coupon or Cashback
+Male,43,Premium,Below 500,Yes,No,Yes,Coupon
+Male,39,Normal,Below 500,No,No,No,Coupon
+Female,42,Normal,Below 500,No,No,No,Coupon
+Female,40,Premium,Above 1000,Yes,Yes,Yes,Coupon or Cashback
+Male,40,Normal,501 to 1000,Yes,No,No,Coupon
+Female,24,Normal,Below 500,No,No,No,Coupon
+Female,30,Premium,501 to 1000,Yes,Yes,Yes,Cashback
+Male,46,Normal,501 to 1000,Yes,No,No,Coupon
+Female,49,Normal,Below 500,No,No,No,Coupon
+Male,41,Normal,501 to 1000,Yes,No,No,Coupon
+Male,40,Premium,Above 1000,Yes,Yes,Yes,Coupon or Cashback
+Female,46,Normal,Above 1000,Yes,Yes,No,Coupon or Cashback
+Female,38,Premium,501 to 1000,Yes,Yes,Yes,Cashback
+Female,36,Normal,Below 500,No,No,No,Coupon
+Female,37,Normal,501 to 1000,Yes,No,No,Coupon
+Male,49,Premium,Above 1000,Yes,Yes,Yes,Coupon or Cashback
+Female,41,Normal,Above 1000,Yes,Yes,No,Coupon or Cashback
+Male,27,Normal,501 to 1000,Yes,No,No,Coupon
+Male,50,Normal,Below 500,No,No,No,Coupon
+Female,34,Premium,501 to 1000,Yes,Yes,Yes,Cashback
+Female,48,Premium,Above 1000,Yes,Yes,Yes,Coupon or Cashback
+Female,30,Normal,Below 500,No,No,No,Coupon
+Male,40,Premium,501 to 1000,Yes,Yes,Yes,Cashback
+Female,24,Normal,Above 1000,Yes,Yes,No,Coupon or Cashback
+Male,45,Normal,Above 1000,Yes,Yes,No,Coupon or Cashback
+Female,42,Normal,501 to 1000,Yes,No,No,Coupon
+Male,47,Premium,501 to 1000,Yes,Yes,Yes,Cashback
+Female,48,Normal,501 to 1000,Yes,No,No,Coupon
+Female,25,Premium,Above 1000,Yes,Yes,Yes,Coupon or Cashback
+Female,33,Normal,Above 1000,Yes,Yes,No,Coupon or Cashback
+Female,44,Normal,501 to 1000,Yes,No,No,Coupon
+Male,38,Premium,Below 500,Yes,No,Yes,Coupon
+Female,33,Normal,501 to 1000,Yes,No,No,Coupon
+Male,31,Premium,Below 500,Yes,No,Yes,Coupon
+Female,40,Normal,Below 500,No,No,No,Coupon
+Female,27,Premium,Above 1000,Yes,Yes,Yes,Coupon or Cashback
+Female,41,Normal,501 to 1000,Yes,No,No,Coupon
+Female,34,Normal,Above 1000,Yes,Yes,No,Coupon or Cashback
+Female,33,Normal,501 to 1000,Yes,No,No,Coupon
+Male,44,Premium,Above 1000,Yes,Yes,Yes,Coupon or Cashback
+Female,34,Premium,Above 1000,Yes,Yes,Yes,Coupon or Cashback
+Female,26,Normal,Below 500,No,No,No,Coupon
+Male,34,Normal,501 to 1000,Yes,No,No,Coupon
+Male,38,Normal,Below 500,No,No,No,Coupon
+Male,30,Premium,Below 500,Yes,No,Yes,Coupon
+Female,49,Normal,Above 1000,Yes,Yes,No,Coupon or Cashback
+Female,34,Normal,501 to 1000,Yes,No,No,Coupon
+Female,37,Normal,Above 1000,Yes,Yes,No,Coupon or Cashback
+Male,31,Normal,501 to 1000,Yes,No,No,Coupon
+Male,39,Premium,Below 500,Yes,No,Yes,Coupon
+Female,35,Normal,Above 1000,Yes,Yes,No,Coupon or Cashback
+Female,46,Normal,Below 500,No,No,No,Coupon
+Female,39,Premium,Above 1000,Yes,Yes,Yes,Coupon or Cashback
+Male,29,Normal,Below 500,No,No,No,Coupon
+Female,35,Normal,501 to 1000,Yes,No,No,Coupon
+Female,39,Normal,501 to 1000,Yes,No,No,Coupon
+Male,35,Premium,Below 500,Yes,No,Yes,Coupon
+Male,37,Premium,Above 1000,Yes,Yes,Yes,Coupon or Cashback
+Female,47,Normal,Below 500,No,No,No,Coupon
+Male,44,Normal,501 to 1000,Yes,No,No,Coupon
+Female,42,Normal,501 to 1000,Yes,No,No,Coupon
+Female,47,Premium,Below 500,Yes,No,Yes,Coupon
+Female,31,Normal,501 to 1000,Yes,No,No,Coupon
+Male,44,Premium,Below 500,Yes,No,Yes,Coupon
+Female,44,Normal,Above 1000,Yes,Yes,No,Coupon or Cashback
+Female,32,Premium,501 to 1000,Yes,Yes,Yes,Cashback
+Female,31,Normal,Below 500,No,No,No,Coupon
+Male,29,Normal,501 to 1000,Yes,No,No,Coupon
+Female,43,Normal,Above 1000,Yes,Yes,No,Coupon or Cashback
+Male,37,Normal,501 to 1000,Yes,No,No,Coupon
+Female,28,Premium,Above 1000,Yes,Yes,Yes,Coupon or Cashback
+Female,35,Normal,Below 500,No,No,No,Coupon
+Male,50,Premium,501 to 1000,Yes,Yes,Yes,Cashback
+Female,46,Normal,Above 1000,Yes,Yes,No,Coupon or Cashback
+Female,24,Normal,Above 1000,Yes,Yes,No,Coupon or Cashback
+Male,50,Normal,501 to 1000,Yes,No,No,Coupon
+Female,31,Premium,Below 500,Yes,No,Yes,Coupon
+Female,42,Normal,501 to 1000,Yes,No,No,Coupon
+Male,27,Premium,Below 500,Yes,No,Yes,Coupon
+Female,32,Normal,Below 500,No,No,No,Coupon
+Male,42,Normal,501 to 1000,Yes,No,No,Coupon
+Female,48,Normal,501 to 1000,Yes,No,No,Coupon
+Male,43,Normal,Below 500,No,No,No,Coupon
+Female,35,Normal,Below 500,No,No,No,Coupon
+Male,40,Premium,Below 500,Yes,No,Yes,Coupon
+Male,44,Normal,Below 500,No,No,No,Coupon
+Female,48,Normal,Above 1000,Yes,Yes,No,Coupon or Cashback
+Male,45,Normal,Above 1000,Yes,Yes,No,Coupon or Cashback
+Female,45,Premium,501 to 1000,Yes,Yes,Yes,Cashback
+Male,29,Normal,Above 1000,Yes,Yes,No,Coupon or Cashback
+Female,29,Premium,501 to 1000,Yes,Yes,Yes,Cashback
+Female,28,Normal,Below 500,No,No,No,Coupon
+Male,46,Normal,501 to 1000,Yes,No,No,Coupon
+Female,39,Premium,Below 500,Yes,No,Yes,Coupon
+Male,31,Normal,Above 1000,Yes,Yes,No,Coupon or Cashback
+Male,24,Premium,Above 1000,Yes,Yes,Yes,Coupon or Cashback
+Female,42,Normal,Below 500,No,No,No,Coupon
+Male,43,Normal,Below 500,No,No,No,Coupon
